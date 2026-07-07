@@ -1,3 +1,13 @@
-"engines": {
-  "node": "20.x"
-},
+{
+  "name": "finmail-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "..."
+  },
+  "dependencies": {
+    ...
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
